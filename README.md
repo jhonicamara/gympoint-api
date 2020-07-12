@@ -22,8 +22,8 @@ Os usuários no aplicativo podem verificar realizar o checkin, além de possuir 
 
 Os administratores na página web podem cadastrar, editar e deletar usuarios e matriculas, além de possuir um espaço para perguntas e respostas com os alunos.
 
-Veja também o **frontend**, clique aqui: [MeetApp Frontend](https://github.com/jhonicamara/gympoint-web)<br />
-Veja também o **mobile**, clique aqui: [MeetApp Mobile](https://github.com/jhonicamara/gympoint-mobile)
+Veja também o **frontend**, clique aqui: [Gympoint Frontend](https://github.com/jhonicamara/gympoint-web)<br />
+Veja também o **mobile**, clique aqui: [Gympoint Mobile](https://github.com/jhonicamara/gympoint-mobile)
 
 ## 🚀 Tecnologias
 
